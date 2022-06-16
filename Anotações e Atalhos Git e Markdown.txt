@@ -1,0 +1,30 @@
+COMANDO BÁSICO NO CMD
+
+Listar  - dir
+Navegar nas pastas - cd /
+Voltar na navegação - cd ..
+Limpar tela - ctrl + l
+Completa - tab
+Criar pasta - mkdir workspace* *(+nome da pasta)
+Imprimir arquivo - echo* hello >* hello.txt   (* comando)
+Deletar arquivos - del (+nome da pasta)
+Deletar repositorio - rmdir (+nome da pasta) /S /Q
+Pastas e arquivos olcuto - ls -a
+
+
+git clone + link do repositorio do github
+git status
+git add .
+git commit -m "descrever comentario"
+git push origin main
+________________________________________________________
+
+Criar texto - Markdown
+# Título nível 1
+## Título nível 2
+### Título nível 3
+#### Título nível 4
+###### Título nível 5
+####### Título nível 6
+
+________________________________________________________
